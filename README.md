@@ -47,8 +47,7 @@ We will review submissions on a rolling basis.
 | 13    | Sean Ko         | 0.0271      |  .5138          | 31.83s      | lr increase, decrease epoch, increase lambda overlap and decreased lambda wire_length + log penalty loss |  
 | 14    | Prithvi Seran   | 0.0499      | 0.4890          | 398.58      |                      |
 | 15    | partcl example  | 0.8         | 0.4             | 5           | example              |
-| 16    | Add Yours!      |             |                 |             |                      |
-
+| 16    | Vrajesh Shah    | 0.00        | 0.4978          | 56.6            |Did 2 test (the results for other one was 0.00,0.5099, 144.30   )                      |
 > **To add your results:**  
 > Insert a new row in the table above with your name, overlap, wirelength, and any notes. Ensure you sort by overlap.
 
